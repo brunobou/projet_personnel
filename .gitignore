@@ -1,6 +1,4 @@
 
 *.csv
-kaggle_titanic/.ipynb_checkpoints/Exploration-checkpoint.ipynb
-kaggle_titanic/.ipynb_checkpoints/Untitled-checkpoint.ipynb
-kaggle_titanic/.ipynb_checkpoints/étude des modèles-checkpoint.ipynb
+kaggle_titanic/.ipynb_checkpoints/*
 kaggle_house_price/.ipynb_checkpoints/*
